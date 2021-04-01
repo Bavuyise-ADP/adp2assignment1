@@ -14,7 +14,7 @@ import static org.junit.Assert.*;
 
 /**
  *
- * @author VUYOLWETHU
+ * @author Bavuyise Mpila 216061067
  */
 public class CalculatorTest {
     
